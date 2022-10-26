@@ -1,0 +1,50 @@
+[
+    {
+        "img": "https://image.freepik.com/free-photo/smiling-students-with-backpacks_1098-1220.jpg",
+        "id": 1,
+        "name": "HSC 2022 (Math)",
+        "price": 1999,
+        "liveclass": "260 Live Classes",
+        "modeltest": "18 Model Tests"
+    },
+    {
+        "img": "https://image.freepik.com/free-photo/young-attractive-smiling-student-showing-thumb-up-outdoors-campus-university_8353-6394.jpg",
+        "id": 2,
+        "name": "Pre Admission Science",
+        "price": 4499,
+        "liveclass": "340 Live Classes",
+        "modeltest": "28 Model Tests"
+    },
+    {
+        "img": "https://image.freepik.com/free-photo/online-communication_1098-15842.jpg",
+        "id": 3,
+        "name": "Pre Admission Medicle",
+        "price": 4499,
+        "liveclass": "350 Live Classes",
+        "modeltest": "30 Model Tests"
+    },
+    {
+        "img": "https://image.freepik.com/free-photo/smiling-girl-holding-notebooks-leaning-table_23-2147657265.jpg",
+        "id": 4,
+        "name": "Pre Admission Business",
+        "price": 3499,
+        "liveclass": "280 Live Classes",
+        "modeltest": "22 Model Tests"
+    },
+    {
+        "img": "https://image.freepik.com/free-photo/smiling-girl-holding-notebooks-leaning-table_23-2147657265.jpg",
+        "id": 5,
+        "name": "HSC 2022 (Bangla)",
+        "price": 3999,
+        "liveclass": "220 Live Classes",
+        "modeltest": "18 Model Tests"
+    },
+    {
+        "img": "https://image.freepik.com/free-photo/smiling-girl-holding-notebooks-leaning-table_23-2147657265.jpg",
+        "id": 6,
+        "name": "HSC 2022 (English)",
+        "price": 4199,
+        "liveclass": "380 Live Classes",
+        "modeltest": "26 Model Tests"
+    }
+]
