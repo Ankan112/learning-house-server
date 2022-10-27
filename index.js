@@ -19,6 +19,11 @@ app.get('/courses/:id', (req, res) => {
     const course = courses.find(cr => cr.id == id);
     res.send(course)
 })
+app.get('/checkout/:id', (req, res) => {
+    const id = req.params.id;
+    const course = courses.find(cr => cr.id == id);
+    res.send(course)
+})
 app.listen(port, () => {
     console.log(`Learning site on port, ${port}`)
 })
